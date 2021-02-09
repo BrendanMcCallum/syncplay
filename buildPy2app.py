@@ -29,7 +29,7 @@ OPTIONS = {
         'CFBundleName': 'Syncplay',
         'CFBundleShortVersionString': syncplay.version,
         'CFBundleIdentifier': 'pl.syncplay.Syncplay',
-        'LSMinimumSystemVersion': '10.12.0',
+        'LSMinimumSystemVersion': '10.10.0',
         'NSHumanReadableCopyright': 'Copyright © 2019 Syncplay All Rights Reserved',
         'NSRequiresAquaSystemAppearance': False,
     }
